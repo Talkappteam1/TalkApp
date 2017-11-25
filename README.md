@@ -22,7 +22,7 @@ ________________________________________
 # Execution 
 
 How can you start chatting?
-1.	Download the .apk file from url at github.
+1.	Download the .apk file from https://github.com/Talkappteam1/TalkApp.
 2.	Install the application.
 3.	Open Talk application after installation completed.
 4.	Click in it.
